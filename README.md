@@ -1,1 +1,1 @@
-# this project use fo practice typescript
+# this project use for practice typescript
